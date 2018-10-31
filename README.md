@@ -15,9 +15,9 @@ Paper Wallet: https://paperwallet.elsecoins.com
 
 Support: https://support.elsecoins.com/
 
-Whitepaper: https://elsecoins.com/whitepaper.pdf
+Whitepaper: https://www.elsecoins.com/whitepaper.pdf
 
-Blogs: http://blog.elsecoins.com/
+Blogs: https://www.blog.elsecoins.com/
 forums: http://forum.elsecoins.com/
 
 Social Media:
@@ -37,7 +37,7 @@ Twitter: https://twitter.com/elsecoins
 Youtube: https://www.youtube.com/channel/UCjw0UWGk0gjJfD3QjX2pM9w
 Exchanges:
 
-Elsecointrader: http://elsecointrader.com/
+Elsecointrader: https://www.elsecointrader.com/
  
 Exchanges (Coming Soon):
 
